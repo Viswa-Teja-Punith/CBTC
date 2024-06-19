@@ -64,17 +64,7 @@ class rps():
                     print("Rock smashes scissors! ",self.player2,"wins the match")
           elif self.player1==self.player2:
                print("Both opted the same ,so its draw")
-          #return obj.recurce()
-    #def recurce(self):
-         #self.player1=maskpass.askpass(prompt="player1 enter your choice from above:")
-         #self.player2=maskpass.askpass(prompt="player2 enter your choice from above:")
-         #if self.player1 !="":
-              #return obj.fun1()
-        #elif self.player2!="":
-              #return obj.fun2()
-         #else:
-
-             #pass
+          
 
 
 obj=rps()
